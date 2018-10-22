@@ -5,7 +5,6 @@
 <!-- console.log("Hello!"); -->
 
 
-
 const hello = document.getElementById("Hello");
 
 <!--Function -->
