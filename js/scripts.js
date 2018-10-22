@@ -12,6 +12,7 @@ const hello = document.getElementById("Hello");
 <!--Function -->
 
 
+
 function greeting() {
   console.log("Hello!");
   alert("Hello!");
