@@ -4,14 +4,9 @@
 <!-- Loads hello within console log -->
 <!-- console.log("Hello!"); -->
 
-
 const hello = document.getElementById("Hello");
 
-
-
 <!--Function -->
-
-
 
 function greeting() {
   console.log("Hello!");
